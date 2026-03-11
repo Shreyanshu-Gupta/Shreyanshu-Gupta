@@ -8,7 +8,6 @@
 * 🌱 Currently learning **Backend Development & System Design**
 * ⚛️ Love building responsive and scalable web applications
 * 🚀 Exploring the **MERN stack**
-* 🎯 Goal: Become a **Full Stack Software Engineer**
 
 ---
 
