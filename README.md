@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/shreyanshu-gupta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shreyanshu%20Gupta-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Shreyanshu%20Gupta-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-- 💻 MERN Stack Developer
-- 🌱 Currently learning **Backend & System Design**
-- 🔥 Passionate about building scalable web apps
-- 🎯 Goal: Become a **Top Software Engineer**
+* 💻 MERN Stack Developer
+* 🌱 Currently learning **Backend & System Design**
+* 🔥 Passionate about building scalable web apps
+* 🎯 Goal: Become a **Top Software Engineer**
 
 ---
 
@@ -29,7 +29,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shreyanshu-Gupta&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyanshu-Gupta&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Shreyanshu-Gupta&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=Shreyanshu-Gupta&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyanshu-Gupta&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyanshu-Gupta&theme=github-compact"/>
 </p>
 
 ---
@@ -63,9 +63,9 @@
 ## 👀 Profile Visitors
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shreyanshu-Gupta&label=Profile%20Views&color=blue&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Shreyanshu-Gupta&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
-⭐️ From [Shreyanshu-Gupta](https://github.com/Shreyanshu-Gupta/)
+⭐️ From [Shreyanshu-Gupta](https://github.com/Shreyanshu-Gupta)
