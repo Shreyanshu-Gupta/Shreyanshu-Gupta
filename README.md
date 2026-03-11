@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shreyanshu Kumar</h1>
+<h3 align="center">🚀 MERN Stack Developer</h3>
 
-<!--
-**Shreyanshu-Gupta/Shreyanshu-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/shreyanshu-gupta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Shreyanshu%20Gupta-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 MERN Stack Developer
+- 🌱 Currently learning **Backend & System Design**
+- 🔥 Passionate about building scalable web apps
+- 🎯 Goal: Become a **Top Software Engineer**
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,git,github,vscode,html,css,tailwind" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyanshu-Gupta&show_icons=true&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Shreyanshu-Gupta&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyanshu-Gupta&theme=react-dark"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/shreyanshu-gupta">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Shreyanshu-Gupta&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+---
+
+⭐️ From [Shreyanshu-Gupta](https://github.com/Shreyanshu-Gupta/)
