@@ -1,84 +1,66 @@
-<h1 align="center">Hi 👋, I'm Shreyanshu Kumar</h1>
+### Hi there 👋 I'm Shreyanshu Kumar
 
-<h3 align="center">
-Frontend Developer | Learning Backend | React • JavaScript • Node.js
-</h3>
+I'm a Frontend Developer 🚀 and currently learning Backend development.
+I build clean, responsive web apps and aim to become a Full-Stack Engineer.
 
-<p align="center">
-<a href="https://linkedin.com/in/shreyanshu-gupta" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Shreyanshu%20Gupta-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="https://x.com/HIM4NSHUGUPT4" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-X-black?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
+🧠   Currently working on:
+
+* 🚀 Building modern **React applications**
+* 🌐 Learning **Backend (Node.js, Express, APIs)**
+* 🤖 Exploring full-stack development with MERN
+
+📌   Previously built:
+
+* 🛠 Multiple **frontend UI projects**
+* 📦 Responsive web apps using **React & Tailwind**
+
+---
+
+💻  Tech Stack
+`React.js` · `JavaScript` · `HTML` · `CSS` · `Tailwind` · `Node.js` · `Express.js` · `MongoDB`
+`Git` · `GitHub` · `VS Code` · `C++`
+
+---
+
+🚀  Career Snapshot
+
+* 💻 Frontend Developer focused on UI/UX
+* 🌱 Currently transitioning into **Backend Development**
+* ⚛️ Building projects using **React ecosystem**
+* 🎯 Goal: Become a **Full Stack Software Engineer**
+
+---
+
+---
+
+🤖 Learning & Projects
+I actively build projects and improve my skills:
+
+* 🔁 Frontend Projects – Responsive UI & components
+* 🔁 MERN Stack Apps – Full-stack learning projects
+
+> 🧠 Focused on improving problem-solving, clean code, and real-world development
+
+---
+
+📈 GitHub Stats
+ ![](https://komarev.com/ghpvc/?username=Shreyanshu-Gupta\&color=brightgreen)
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyanshu-Gupta&show_icons=true&rank_icon=github&locale=en" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshu-Gupta&layout=compact&hide_border=true&langs_count=10&theme=transparent" />
 </p>
 
 ---
 
-# 🚀 About Me
+📫  Reach out to collaborate, chat, or brainstorm
 
-* 💻 **Frontend Developer**
-* 🌱 Currently learning **Backend Development**
-* ⚛️ Building modern **React applications**
-* 🚀 Exploring the **MERN stack**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/shreyanshu-gupta)
+[![Twitter](https://img.shields.io/badge/Twitter-black?style=flat\&logo=twitter)](https://x.com/HIM4NSHUGUPT4)
 
 ---
 
-# 🛠️ Languages and Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,tailwind,cpp"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shreyanshu-Gupta&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Shreyanshu-Gupta&theme=github-dark-blue&hide_border=true"/>
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyanshu-Gupta&theme=github-compact"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/shreyanshu-gupta">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://x.com/HIM4NSHUGUPT4">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shreyanshu-Gupta&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-⭐️ From [Shreyanshu-Gupta](https://github.com/Shreyanshu-Gupta)
+🌱 Always learning, building, and growing.
+📌 Check my [projects](https://github.com/Shreyanshu-Gupta?tab=repositories)
