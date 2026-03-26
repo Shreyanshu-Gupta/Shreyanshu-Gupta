@@ -19,6 +19,7 @@ I build clean, responsive web apps and aim to become a Full-Stack Engineer.
 ---
 
 💻  Tech Stack
+
 `React.js` · `JavaScript` · `HTML` · `CSS` · `Tailwind` · `Node.js` · `Express.js` · `MongoDB`
 `Git` · `GitHub` · `VS Code` · `C++`
 
