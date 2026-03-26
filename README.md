@@ -45,14 +45,14 @@ I actively build projects and improve my skills:
 
 ---
 
-📈 GitHub Stats
- ![](https://komarev.com/ghpvc/?username=Shreyanshu-Gupta\&color=brightgreen)
+📈 GitHub Stats  
+&nbsp;![](https://komarev.com/ghpvc/?username=Shreyanshu-Gupta&color=brightgreen)
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyanshu-Gupta&show_icons=true&rank_icon=github&locale=en" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshu-Gupta&layout=compact&hide_border=true&langs_count=10&theme=transparent" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyanshu-Gupta&show_icons=true&rank_icon=github&theme=transparent&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyanshu-Gupta&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
 </p>
-
 ---
 
 📫  Reach out to collaborate, chat, or brainstorm
